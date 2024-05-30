@@ -924,7 +924,7 @@ body{
 	color: var(--text-clr);
 }
 .footerContents .copyRights span{
-	color: yellow;
+	color: #e25822;
 	opacity: 0.5;
 }
 
